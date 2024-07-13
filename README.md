@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Helm Charts and Helm Releases | Create Your First Helm Chart | Helm Chart Tutorial in Hindi](https://www.youtube.com/watch?v=GbWYcj2V1cM)
 - [Introduction to Helm | Helm for Beginners | What is Helm? | Helm Tutorial in Hindi | Helm Explained](https://www.youtube.com/watch?v=b7RuASfl3Nw)
 - [#2 Getting Started with AWS: Create Free AWS Account | AWS Tutorials for Absolute Beginners in Hindi](https://www.youtube.com/watch?v=53nNg7X86yc)
 - [#1 What is AWS? Why to learn? What&#39;s Cloud Computing? | AWS 101 | AWS for Absolute Beginners](https://www.youtube.com/watch?v=S0pHo5rhsxE)
@@ -12,7 +13,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [WordPress Deployment on AWS EC2 and RDS | Step-by-Step Guide for Two-Tier Environment | DevOps Pro](https://www.youtube.com/watch?v=R04upb-Uac4)
 - [GitHub Actions Crash Course for beginners with Projects | GitHub Action Tutorial in Hindi](https://www.youtube.com/watch?v=bSBaAspgmhU)
 - [Conditional Expressions in Terraform  | Terraform Conditional Expressions Tutorial in Hindi](https://www.youtube.com/watch?v=y27jjcrQAHE)
-- [Terraform Count and Count Index Explained - Create Multiple AWS Instances  | Terraform Tutorials](https://www.youtube.com/watch?v=62t5oKQOfNA)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
