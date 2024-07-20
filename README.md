@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Step-by-Step Guide to Deploy WordPress using Helm | Helm Tutorial for Beginners | Deploy WordPress](https://www.youtube.com/watch?v=LJLYmm0L_YA)
 - [Helm Commands for Beginners | Helm Commands Tutorial | Basics Helm Commands | Basics of Helm | Helm](https://www.youtube.com/watch?v=NCfKjSP2luc)
 - [Helm Charts and Helm Releases | Create Your First Helm Chart | Helm Chart Tutorial in Hindi](https://www.youtube.com/watch?v=GbWYcj2V1cM)
 - [Introduction to Helm | Helm for Beginners | What is Helm? | Helm Tutorial in Hindi | Helm Explained](https://www.youtube.com/watch?v=b7RuASfl3Nw)
@@ -12,7 +13,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Data Sources in Terraform | Use terraform data source to fetch aws ami ids  | Terraform Tutorials](https://www.youtube.com/watch?v=_NU3jIwvPGs)
 - [Terraform Local Values Explained | Locals in Terraform | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=ldK_98oPjMc)
 - [WordPress Deployment on AWS EC2 and RDS | Step-by-Step Guide for Two-Tier Environment | DevOps Pro](https://www.youtube.com/watch?v=R04upb-Uac4)
-- [GitHub Actions Crash Course for beginners with Projects | GitHub Action Tutorial in Hindi](https://www.youtube.com/watch?v=bSBaAspgmhU)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
