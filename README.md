@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [If-Else Conditions in Helm Templates | Helm Template If-Else Tutorial | Helm Advance Tutorial](https://www.youtube.com/watch?v=CFFUu9LyJ7w)
 - [Functions in Helm Charts | Helm Template Functions | Helm Functions Tutorial | Helm Tutorials](https://www.youtube.com/watch?v=624cjQpK0xQ)
 - [Step-by-Step Guide to Deploy WordPress using Helm | Helm Tutorial for Beginners | Deploy WordPress](https://www.youtube.com/watch?v=LJLYmm0L_YA)
 - [Helm Commands for Beginners | Helm Commands Tutorial | Basics Helm Commands | Basics of Helm | Helm](https://www.youtube.com/watch?v=NCfKjSP2luc)
@@ -12,7 +13,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [#1 What is AWS? Why to learn? What&#39;s Cloud Computing? | AWS 101 | AWS for Absolute Beginners](https://www.youtube.com/watch?v=S0pHo5rhsxE)
 - [Terraform Dynamic Block Explained with Demo in Hindi | What are Dynamic Blocks in Terraform?](https://www.youtube.com/watch?v=4wGTVBzQYDs)
 - [Data Sources in Terraform | Use terraform data source to fetch aws ami ids  | Terraform Tutorials](https://www.youtube.com/watch?v=_NU3jIwvPGs)
-- [Terraform Local Values Explained | Locals in Terraform | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=ldK_98oPjMc)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
