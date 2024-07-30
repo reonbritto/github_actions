@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [With Block in Helm | Advanced Helm Tutorials | Use with in helm chart | Flow Controls in Helm | Helm](https://www.youtube.com/watch?v=XVX50_zq8Bc)
 - [If-Else Conditions in Helm Templates | Helm Template If-Else Tutorial | Helm Advance Tutorial](https://www.youtube.com/watch?v=CFFUu9LyJ7w)
 - [Functions in Helm Charts | Helm Template Functions | Helm Functions Tutorial | Helm Tutorials](https://www.youtube.com/watch?v=624cjQpK0xQ)
 - [Step-by-Step Guide to Deploy WordPress using Helm | Helm Tutorial for Beginners | Deploy WordPress](https://www.youtube.com/watch?v=LJLYmm0L_YA)
@@ -12,7 +13,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [#2 Getting Started with AWS: Create Free AWS Account | AWS Tutorials for Absolute Beginners in Hindi](https://www.youtube.com/watch?v=53nNg7X86yc)
 - [#1 What is AWS? Why to learn? What&#39;s Cloud Computing? | AWS 101 | AWS for Absolute Beginners](https://www.youtube.com/watch?v=S0pHo5rhsxE)
 - [Terraform Dynamic Block Explained with Demo in Hindi | What are Dynamic Blocks in Terraform?](https://www.youtube.com/watch?v=4wGTVBzQYDs)
-- [Data Sources in Terraform | Use terraform data source to fetch aws ami ids  | Terraform Tutorials](https://www.youtube.com/watch?v=_NU3jIwvPGs)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
