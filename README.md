@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Kubernetes Quiz: Testing Your Skills with MCQs #shorts #devops #kubernetes #devopspro](https://www.youtube.com/watch?v=63Lwjv0_Qc4)
 - [Named Templates in Helm Charts | Helm Charts with Named Templates | Named Templates in Helm Charts](https://www.youtube.com/watch?v=E7V9LJCjoUU)
 - [Range in Helm Chart | Use Range Block in Helm | Advanced Helm Tutorial in Hindi | Helm Range Blocks](https://www.youtube.com/watch?v=MHLqyj-k_As)
 - [With Block in Helm | Advanced Helm Tutorials | Use with in helm chart | Flow Controls in Helm | Helm](https://www.youtube.com/watch?v=XVX50_zq8Bc)
@@ -12,7 +13,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Helm Commands for Beginners | Helm Commands Tutorial | Basics Helm Commands | Basics of Helm | Helm](https://www.youtube.com/watch?v=NCfKjSP2luc)
 - [Helm Charts and Helm Releases | Create Your First Helm Chart | Helm Chart Tutorial in Hindi](https://www.youtube.com/watch?v=GbWYcj2V1cM)
 - [Introduction to Helm | Helm for Beginners | What is Helm? | Helm Tutorial in Hindi | Helm Explained](https://www.youtube.com/watch?v=b7RuASfl3Nw)
-- [#2 Getting Started with AWS: Create Free AWS Account | AWS Tutorials for Absolute Beginners in Hindi](https://www.youtube.com/watch?v=53nNg7X86yc)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
