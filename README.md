@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Write Your First Python Program | Print Function Secrets | Python Tutorial for Beginners in Hindi](https://www.youtube.com/watch?v=TG_iexk1f74)
 - [How to Install Python on Windows, Mac, and Linux | VS Code Setup | Python Tutorials for Beginners](https://www.youtube.com/watch?v=lky5ZVSgmp8)
 - [Introduction to Python for DevOps | Why DevOps Engineers Should Learn Python | Python for Beginners](https://www.youtube.com/watch?v=wiUAPTFGF5M)
 - [Kubernetes Quiz: Testing Your Skills with MCQs #shorts #devops #kubernetes #devopspro](https://www.youtube.com/watch?v=63Lwjv0_Qc4)
@@ -12,7 +13,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [If-Else Conditions in Helm Templates | Helm Template If-Else Tutorial | Helm Advance Tutorial](https://www.youtube.com/watch?v=CFFUu9LyJ7w)
 - [Functions in Helm Charts | Helm Template Functions | Helm Functions Tutorial | Helm Tutorials](https://www.youtube.com/watch?v=624cjQpK0xQ)
 - [Step-by-Step Guide to Deploy WordPress using Helm | Helm Tutorial for Beginners | Deploy WordPress](https://www.youtube.com/watch?v=LJLYmm0L_YA)
-- [Helm Commands for Beginners | Helm Commands Tutorial | Basics Helm Commands | Basics of Helm | Helm](https://www.youtube.com/watch?v=NCfKjSP2luc)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
