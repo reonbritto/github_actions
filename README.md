@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [What are Literals? | Literals in Python Explained | Python tutorials for beginners in hindi](https://www.youtube.com/watch?v=0xe-riFbUbI)
 - [Write Your First Python Program | Print Function Secrets | Python Tutorial for Beginners in Hindi](https://www.youtube.com/watch?v=TG_iexk1f74)
 - [How to Install Python on Windows, Mac, and Linux | VS Code Setup | Python Tutorials for Beginners](https://www.youtube.com/watch?v=lky5ZVSgmp8)
 - [Introduction to Python for DevOps | Why DevOps Engineers Should Learn Python | Python for Beginners](https://www.youtube.com/watch?v=wiUAPTFGF5M)
@@ -12,7 +13,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [With Block in Helm | Advanced Helm Tutorials | Use with in helm chart | Flow Controls in Helm | Helm](https://www.youtube.com/watch?v=XVX50_zq8Bc)
 - [If-Else Conditions in Helm Templates | Helm Template If-Else Tutorial | Helm Advance Tutorial](https://www.youtube.com/watch?v=CFFUu9LyJ7w)
 - [Functions in Helm Charts | Helm Template Functions | Helm Functions Tutorial | Helm Tutorials](https://www.youtube.com/watch?v=624cjQpK0xQ)
-- [Step-by-Step Guide to Deploy WordPress using Helm | Helm Tutorial for Beginners | Deploy WordPress](https://www.youtube.com/watch?v=LJLYmm0L_YA)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
