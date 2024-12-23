@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Kubernetes Pod Affinity &amp; Anti-Affinity | Node affinity vs Pod affinity | Kubernetes Scheduling](https://www.youtube.com/watch?v=kXipD5hzwkk)
+- [Kubernetes Node Affinity &amp; Anti-Affinity Explained in Hindi | Node Selector vs. Node Affinity](https://www.youtube.com/watch?v=qJ4rUXaFWlo)
+- [Operators in Python | Types of Operators | Python Operators Explained  in Hindi | Python Tutorials](https://www.youtube.com/watch?v=_7rGpWz5k0Y)
 - [What are Literals? | Literals in Python Explained | Python tutorials for beginners in hindi](https://www.youtube.com/watch?v=0xe-riFbUbI)
 - [Write Your First Python Program | Print Function Secrets | Python Tutorial for Beginners in Hindi](https://www.youtube.com/watch?v=TG_iexk1f74)
 - [How to Install Python on Windows, Mac, and Linux | VS Code Setup | Python Tutorials for Beginners](https://www.youtube.com/watch?v=lky5ZVSgmp8)
@@ -10,9 +13,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Kubernetes Quiz: Testing Your Skills with MCQs #shorts #devops #kubernetes #devopspro](https://www.youtube.com/watch?v=63Lwjv0_Qc4)
 - [Named Templates in Helm Charts | Helm Charts with Named Templates | Named Templates in Helm Charts](https://www.youtube.com/watch?v=E7V9LJCjoUU)
 - [Range in Helm Chart | Use Range Block in Helm | Advanced Helm Tutorial in Hindi | Helm Range Blocks](https://www.youtube.com/watch?v=MHLqyj-k_As)
-- [With Block in Helm | Advanced Helm Tutorials | Use with in helm chart | Flow Controls in Helm | Helm](https://www.youtube.com/watch?v=XVX50_zq8Bc)
-- [If-Else Conditions in Helm Templates | Helm Template If-Else Tutorial | Helm Advance Tutorial](https://www.youtube.com/watch?v=CFFUu9LyJ7w)
-- [Functions in Helm Charts | Helm Template Functions | Helm Functions Tutorial | Helm Tutorials](https://www.youtube.com/watch?v=624cjQpK0xQ)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
